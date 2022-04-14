@@ -4,7 +4,7 @@ Projeto desenvolvido para o processo seletivo na Target Sistemas
 
 ## 🚀 Começando
 
-Para rodar os formulários, recomendo que use o Visual Studio, enquanto que os testes feitos em Python, no Jupyter(Anaconda3), com a importaqção da biblioteca "pandas".
+Para rodar os formulários, recomendo que use o Visual Studio, enquanto que os testes feitos em Python, no Jupyter(Anaconda3), com a importação da biblioteca "pandas".
 
 ### 📋 Pré-requisitos
 
@@ -12,8 +12,6 @@ Obs: No projeto "AnalisedeDados.py", é necessário que seja alterado o diretór
 
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Visual Studio](https://visualstudio.microsoft.com/) - Aplicativo usado para o desenvolvimento em C#
 * [Anaconda](https://www.anaconda.com/products/individual) - Aplicativo utlizado para o desenvolvimento em Python
